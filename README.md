@@ -1,6 +1,6 @@
 # Hi,I'm Mehdi <br>
 💻 Computer Science / Digital Development student<br>
-🌱 Learning Full-Stack Web Development & Data Analytics<br>
+🌱 Learning Full-Stack Web Development & Data Scientist <br>
 🧠 Focused on logic, clean code, and real projects<br>
 📈 Building my skills one repo at a time
 
