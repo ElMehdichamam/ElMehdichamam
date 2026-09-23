@@ -1,6 +1,6 @@
 <div align="center">
+<img width="735" height="245" alt="Aki Hayakawa (header)" src="https://github.com/user-attachments/assets/cc3272c9-ba2b-4b25-96ca-df9effafa193" />
 
-<img width="736" height="261" alt="téléchargement (38)" src="https://github.com/user-attachments/assets/80f7dfa9-e8fb-410a-a078-12432a3fbf81" />
 
 </div>
 
