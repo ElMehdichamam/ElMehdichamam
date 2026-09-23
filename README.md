@@ -1,5 +1,5 @@
 <div align="center">
-<img width="735" height="245" alt="Aki Hayakawa (header)" src="https://github.com/user-attachments/assets/cc3272c9-ba2b-4b25-96ca-df9effafa193" />
+<img width="888" height="245" alt="Aki Hayakawa (header)" src="https://github.com/user-attachments/assets/cc3272c9-ba2b-4b25-96ca-df9effafa193" />
 
 
 </div>
